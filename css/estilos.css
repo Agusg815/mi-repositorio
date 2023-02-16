@@ -1,0 +1,46 @@
+p {
+    color: rgb(0, 1, 5);
+}
+section#presentacion h1{ 
+    font-family: 'Oswald', sans-serif;
+    font-size: xx-large;
+    color: rgb(37, 88, 199);
+    text-align: center;
+    }
+
+section#presentacion h2{
+    font-family: 'Oswald', sans-serif;
+    font-size: x-large;
+    text-align:center;
+}
+
+body { 
+    margin: 10px; 
+    background-color: lightgray;
+}
+
+section{
+    border: 1px solid;
+    margin: 10px;
+    padding: 30px;
+    height: 50vh;
+}
+ 
+header{
+    position: sticky;
+    top: 0;
+    margin: 0px;
+    border: 30px;
+    background-color: lightgreen
+
+}
+
+#cabecera{
+    text-align: center;
+}
+
+header a{
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: center;
+}
